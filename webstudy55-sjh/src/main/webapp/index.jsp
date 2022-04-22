@@ -9,6 +9,6 @@
 </head>
 <body>
 step1 회원관리 로그인 작업
-1번 추가
+2번추가 
 </body>
 </html>
